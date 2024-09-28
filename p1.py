@@ -4,4 +4,5 @@ if hungry == "yes":
     print("Eat meggie")
     print("Eat dabeli")
 else:
-    print("Do your Home work")    
+    print("Do your Home work") 
+    print("Yes boy")   
