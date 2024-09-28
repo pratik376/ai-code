@@ -6,4 +6,5 @@ if hungry == "yes":
 else:
     print("Drink water and masturbate")
     print("Do your Home work")
-    print("Please fuckoff")    
+    print("Please fuckoff")   
+    print("I want to suck your boobs") 
